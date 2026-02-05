@@ -1,0 +1,22 @@
+#Program Title : Personalized Greeting Generator
+#Name : Gaurav
+#Roll No. : 19
+#Branch : Electronics Engineering
+#DOP : 05/02/2026       DOS :
+ 
+print("Hello Welcome to the Personalized Greeting Generator")
+name = input("Enter your name : ")
+age = input("Enter your age : ")
+branch = input("Enter your branch name : ")
+choice = int(input("Choose any no. between 1-3 : "))
+
+if choice == 1:
+    print("Good Morning")
+elif choice == 2:
+    print("Good Afternoon")
+elif choice == 3:
+    print("Good Evening")
+else:
+    print("Invalid Choice")
+
+print(f"Hello {name}, Greeting for the day!!\nYour age is {age}\nYour Branch is {branch}")
