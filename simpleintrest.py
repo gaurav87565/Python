@@ -2,7 +2,7 @@
 #Name : Gaurav
 #Roll No. : 19
 #Branch : Electronics Engineering
-#DOP : 13/02/2026       DOS :
+#DOP : 12/02/2026       DOS :
 
 principal = float(input("Enter the principal amount: "))
 rate = float(input("Enter the rate of interest (in %): "))

@@ -2,7 +2,7 @@
 #Name : Gaurav
 #Roll No. : 19
 #Branch : Electronics Engineering
-#DOP : 13/02/2026       DOS :
+#DOP : 12/02/2026       DOS :
 
 a = float(input("Enter value of a: "))
 b = float(input("Enter value of b: "))
