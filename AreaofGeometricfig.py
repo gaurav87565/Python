@@ -1,4 +1,4 @@
-#Program Title : Calculating Areas of Geometric figures
+#Program Title : Calculating Areas of Geometric Figures -  Write a python program to calculate areas of any geometric figures like circle, rectangle and triangle. 
 #Name : Gaurav
 #Roll No. : 19
 #Branch : Electronics Engineering

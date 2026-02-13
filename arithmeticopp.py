@@ -1,4 +1,4 @@
-#Program Title : Exploring Basic Arithmetic Operations in Python
+#Program Title : Exploring Basic Arithmetic Operations in Python*: Write a Python program to explore basic arithmetic operations. The program should prompt the user to enter two numbers and then perform addition, subtraction, multiplication, division, and modulus operations on those numbers. The results of each operation should be displayed to the user.
 #Name : Gaurav
 #Roll No. : 19
 #Branch : Electronics Engineering
