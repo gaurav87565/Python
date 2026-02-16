@@ -12,7 +12,7 @@ print("2. Subtraction (-)")
 print("3. Multiplication (*)")
 print("4. Division (/)")
 print("5. Modulus (%)")
-choice = input("Enter your choice (1-7): ")
+choice = input("Enter your choice (1-5): ")
 if choice == '1':
     print("Result:", a + b)
 elif choice == '2':

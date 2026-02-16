@@ -1,4 +1,4 @@
-#Program Title : Exploring Basic Arithmetic Operations in Python*: Write a Python program to explore basic arithmetic operations. The program should prompt the user to enter two numbers and then perform addition, subtraction, multiplication, division, and modulus operations on those numbers. The results of each operation should be displayed to the user.
+#Program Title : Calculating Gross Salary of an Employee*: Write a Python program to calculate thegross salary of an employee. The program should prompt the user for the basic salary(BS) and then compute the dearness allowance (DA) as 70% of BS, the travel allowance(TA) as 30% of BS, and the house rent allowance (HRA) as 10% of BS. Finally, it shouldcalculate the gross salary as the sum of BS, DA, TA, and HRA and display the result.
 #Name : Gaurav
 #Roll No. : 19
 #Branch : Electronics Engineering
