@@ -1,5 +1,4 @@
-#Program Title : Personalized Greeting Generator - Write a python code to generate Personalized 
-Greeting. 
+#Program Title : Personalized Greeting Generator - Write a python code to generate Personalized Greeting. 
 #Name : Gaurav
 #Roll No. : 19
 #Branch : Electronics Engineering
